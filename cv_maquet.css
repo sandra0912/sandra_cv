@@ -1,0 +1,183 @@
+html {
+    background-color: lightblue;
+}
+
+body {
+    width: 750px;
+    height: 720px;
+    background-color: rgb(200, 214, 0);
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+header {
+    width: 750px;
+    height: 200px;
+    background-color: darkgrey;
+}
+
+
+#izq_foto {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(214, 227, 231);
+    float: left;
+
+}
+
+#ApellidoNombre {
+    width: 300px;
+    height: 200px;
+    background-color: aliceblue;
+    float: left;
+}
+
+
+#lb_nombre {
+    font-family: 'Noto Serif Toto', serif;
+    font-size: 24px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+#lb_actividad {
+    font-family: 'Noto Serif Toto', serif;
+    font-size: 16px;
+    font-style: italic;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+
+
+#Der_DatosContacto {
+    width: 250px;
+    height: 200px;
+    background-color: rgb(214, 227, 231);
+    float: right;
+}
+
+
+#lb_contacto {
+    font-family: 'Noto Serif Toto', serif;
+    font-size: 16px;
+    font-style: italic;
+    /*margin: auto;*/
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+
+nav {
+    width: 750px;
+    height: 30px;
+    background-color: rgb(212, 41, 204);
+}
+
+nav ul {
+    list-style: none;
+    margin: auto;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+
+    padding: 2px 7px 2px 7px;
+    font-family: Aharoni;
+    font-size: 12px;
+    line-height: 30px;
+    width: max-content;
+}
+
+nav ul li {
+    float: left;
+
+}
+
+section#contenido {
+    width: 750px;
+    height: 440px;
+    background-color: rgb(154, 232, 235);
+    border: 1px;
+
+}
+
+section#contenido h5 {
+    font-family: Imprint MT Shadow;
+    font-size: 14px;
+    font-style: italic;
+}
+
+section#contenido h3 {
+    font-family: Lucida Console;
+    font-size: 12px;
+    font-style: italic;
+}
+
+.lista {
+    font-family: Californian FB;
+    font-size: 14px;
+    font-style: normal;
+
+}
+
+.sub_lista {
+    font-family: Californian FB;
+    font-size: 12px;
+    font-style: normal;
+}
+
+#yo {
+    display: none;
+    width: 550px;
+    height: 440px;
+    background-color: rgb(88, 189, 192);
+    float: left;
+}
+
+#imagen {
+    width: 200px;
+    height: 440px;
+    background-color: rgb(3, 3, 48);
+    float: right;
+}
+
+#experiencia {
+    display: none;
+    width: 550px;
+    height: 440px;
+    background-color: rgb(88, 189, 192);
+    float: left;
+    overflow: auto;
+}
+
+#habilidades {
+    display: none;
+    width: 550px;
+    height: 440px;
+    background-color: rgb(88, 189, 192);
+    float: left;
+    overflow: auto;
+}
+
+#pie {
+    text-align: center;
+    padding-top: 1px;
+    width: 750px;
+    height: 50px;
+    background-color: rgb(228, 131, 228);
+    color: blue;
+}
+
+
+
+
+#h3 {
+    font-family: Californian FB;
+    font-size: 12px;
+    /*color: blue;*/
+
+}
