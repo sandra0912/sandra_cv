@@ -24,4 +24,3 @@ window.onload = function () {
     document.getElementById('habil').onclick = mostrar_habilidades;
 }
 
-
